@@ -1,7 +1,2 @@
-code
-second line
-third line
-12345678
-7777777
-
+i am on gitgub
 I just went to theater last night
